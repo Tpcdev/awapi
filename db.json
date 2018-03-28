@@ -39,17 +39,27 @@
                 "text": "Hey man alles goed check dan is de app chat al klaar ?",
                 "timestamp": "2018-02-21T08:09:44.341Z",
                 "side": "left",
-                "message_id": 5
+                "message_id": 6
             },{
                 "text": "Dit is een test ?",
                 "timestamp": "2018-02-21T08:09:44.341Z",
                 "side": "left",
+                "message_id": 5
+            },{
+                "text": "Dit is een test ?",
+                "timestamp": "2018-02-21T08:09:44.341Z",
+                "side": "right",
                 "message_id": 4
             },{
                 "text": "Hi test test werkt dit",
                 "timestamp": "2018-02-21T08:09:44.341Z",
                 "side": "left",
                 "message_id": 3
+            },{
+                "text": "Hi test test werkt dit",
+                "timestamp": "2018-02-21T08:09:44.341Z",
+                "side": "right",
+                "message_id": 2
             }
         ]
     },{

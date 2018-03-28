@@ -1,0 +1,118 @@
+{
+"profile":{
+    "id": 1,
+    "name":"Rainy",
+    "picture": "https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/12936568_1106568376068792_3627870550890371837_n.jpg?_nc_cat=0&oh=fd92ba6bd0c522b53a6b7e0de32a3913&oe=5B73E77B",
+    "status": "Available",
+    "friends" : [
+        {
+            "id": 3,
+            "name": "Wiki Kanhailal",
+            "picture": "https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/11227597_911220645615506_3806632921966457036_n.jpg?_nc_cat=0&oh=abebe5f1d5d9b91da63d09bae89cb9c5&oe=5B334324",
+            "timestamp": "2018-02-21T07:54:18.290Z",
+            "lastChat":
+              "Hoi boys zijn we al klaar ?"
+          },{
+            "id": 4,
+            "name": "Chris Beljaars",
+            "picture": "https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/17498553_1574593659247724_2112315317405406991_n.jpg?oh=7d8a8db24e22ede87d86f3e779137b8a&oe=5B2A7F01",
+            "timestamp": "2018-02-21T07:54:18.290Z",
+            "lastChat":
+              "Ziet er nice uit kerel Top gedaan"
+          },{
+            "id": 5,
+            "name": "Bill gates",
+            "picture": "https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/23473074_10155031875776961_8482140412038626648_n.jpg?_nc_cat=0&oh=fb8a80b2f0fcd3f02e1eba3dce825cb3&oe=5B408A06",
+            "timestamp": "2018-02-21T07:54:18.290Z",
+            "lastChat":
+              "Or maybe not, let me check logistics and call you. Give me sometime"
+          }
+    ]
+},
+"recentChats": [
+    {
+        "id": 3,
+        "name": "Wiki kanhailal",
+        "picture": "https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/11227597_911220645615506_3806632921966457036_n.jpg?_nc_cat=0&oh=abebe5f1d5d9b91da63d09bae89cb9c5&oe=5B334324",
+        "chatlog": [
+            {
+                "text": "Hey man alles goed check dan is de app chat al klaar ?",
+                "timestamp": "2018-02-21T08:09:44.341Z",
+                "side": "left",
+                "message_id": 5
+            },{
+                "text": "Hey man alles goed check dan is de app chat al klaar ?",
+                "timestamp": "2018-02-21T08:09:44.341Z",
+                "side": "left",
+                "message_id": 4
+            },{
+                "text": "Hey man alles goed check dan is de app chat al klaar ?",
+                "timestamp": "2018-02-21T08:09:44.341Z",
+                "side": "left",
+                "message_id": 3
+            }
+        ]
+    },{
+        "id": 4,
+        "name": "Chris beljaars",
+        "picture": "https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/17498553_1574593659247724_2112315317405406991_n.jpg?oh=7d8a8db24e22ede87d86f3e779137b8a&oe=5B2A7F01",
+        "chatlog": [
+            {
+                "text": "Hey man alles goed check dan is de app chat al klaar ?",
+                "timestamp": "2018-02-21T08:09:44.341Z",
+                "side": "left",
+                "message_id": 5
+            },{
+                "text": "Hey man alles goed check dan is de app chat al klaar ?",
+                "timestamp": "2018-02-21T08:09:44.341Z",
+                "side": "left",
+                "message_id": 4
+            },{
+                "text": "Hey man alles goed check dan is de app chat al klaar ?",
+                "timestamp": "2018-02-21T08:09:44.341Z",
+                "side": "left",
+                "message_id": 3
+            }
+        ]
+    },{
+        "id": 5,
+        "name": "Bill gates",
+        "picture": "https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/23473074_10155031875776961_8482140412038626648_n.jpg?_nc_cat=0&oh=fb8a80b2f0fcd3f02e1eba3dce825cb3&oe=5B408A06",
+        "chatlog": [
+            {
+                "text": "Hey man alles goed check dan is de app chat al klaar ?",
+                "timestamp": "2018-02-21T08:09:44.341Z",
+                "side": "left",
+                "message_id": 5
+            },{
+                "text": "Hey man alles goed check dan is de app chat al klaar ?",
+                "timestamp": "2018-02-21T08:09:44.341Z",
+                "side": "left",
+                "message_id": 4
+            },{
+                "text": "Hey man alles goed check dan is de app chat al klaar ?",
+                "timestamp": "2018-02-21T08:09:44.341Z",
+                "side": "left",
+                "message_id": 3
+            }
+        ]
+    }
+],
+"allContacts":[{
+    "id": 3,
+    "name": "Wiki kanhailal",
+    "picture": "https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/11227597_911220645615506_3806632921966457036_n.jpg?_nc_cat=0&oh=abebe5f1d5d9b91da63d09bae89cb9c5&oe=5B334324",
+    "status":"busy"
+},{
+    "id": 4,
+    "name": "Chris beljaars",
+    "picture": "https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/17498553_1574593659247724_2112315317405406991_n.jpg?oh=7d8a8db24e22ede87d86f3e779137b8a&oe=5B2A7F01",
+    "status":"busy"
+},{
+    "id": 5,
+    "name": "Bill gates",
+    "picture": "https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/23473074_10155031875776961_8482140412038626648_n.jpg?_nc_cat=0&oh=fb8a80b2f0fcd3f02e1eba3dce825cb3&oe=5B408A06",
+    "status":"busy"
+}
+]    
+}
